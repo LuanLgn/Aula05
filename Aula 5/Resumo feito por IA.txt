@@ -1,0 +1,90 @@
+Nicole Santos debateu a evolução do serviço ao cliente desde as décadas de 40 e 50 até aos nossos dias. Referiu que, nesse período, a satisfação do cliente tornou-se um grande diferencial competitivo entre as empresas, levando ao surgimento dos primeiros call centers e sistemas de apoio ao cliente. Nos anos noventa e oitenta, os programas de assistência ao cliente ganharam tracção e especializaram pessoas para trabalharem nas empresas. Nos anos 2000, surgiram novos canais para melhorar a experiência dos clientes e acompanhar melhor as relações com os clientes. Mencionou também a utilização do CRM e a mensuração da satisfação do cliente. Concluiu pedindo a opinião dos participantes.
+
+A Nicole Santos explicou que o conceito de serviço ao cliente se refere ao conjunto de acções e práticas empreendidas por uma empresa para satisfazer as necessidades e expectativas dos clientes durante o processo de compra e pós-venda. Não se trata apenas do produto que compram, mas também da sua experiência em utilizá-lo. O processo pós-venda inclui o serviço pós-venda, o apoio técnico e outras equipas que tratam o cliente depois de terem adquirido um serviço. Por exemplo, se um cliente assina alguma coisa, a empresa tem equipas responsáveis por inverter o valor desse produto, se necessário. Mencionou também o conceito de satisfação do cliente, que se tornou uma parte importante do serviço ao cliente devido ao aumento da competição e do desejo de manter clientes. Actualmente, as empresas especializam-se na satisfação dos clientes, tornando-a um diferencial competitivo e uma forma de gerar mais receitas e lealdade.
+
+O cliente insatisfeito mencionado no contexto tinha um problema com o serviço que recebia da empresa. Sentiram que a sua questão não foi resolvida satisfatoriamente, levando a um atraso no seu serviço. O cliente referiu igualmente que não era mantido ao corrente da evolução da sua questão. Expressaram sua insatisfação através de um inquérito de satisfação, indicando que sentiam que o serviço prestado era ruim. O esforço do cliente para resolver a sua questão foi avaliado como grande, mas o resultado não foi resolvido, o que levou à sua insatisfação. A empresa respondeu analisando a situação, reunindo todos os factos e tentando resolver a questão a contento do cliente.
+
+Na reunião, Nicole Santos salientou a importância de praticar um bom serviço ao cliente. Isto inclui actualizar os clientes com as informações relevantes num curto espaço de tempo, enviar vídeos, descrever objectivamente e colocar toda a informação de que uma pessoa necessita para lá chegar. O objectivo final é resolver o problema e obter a satisfação do cliente. Salientou também a importância da empatia, da comunicação e da concretização do prometido. Mesmo que tenha de dizer não ao cliente, uma resposta continua a ser uma resposta.
+
+No slide anterior, Nicole Santos destacou a importância do atendimento e da satisfação ao cliente. Partilhou dois inquéritos sobre a satisfação dos clientes, salientando as diferenças nas respostas de dois analisadores diferentes. O primeiro inquérito indicava que a questão do cliente tinha sido resolvida de forma satisfatória, enquanto o segundo indicava insatisfação devido ao período de tempo que levou a resolver a questão. A Nicolale sublinhou a importância de um serviço personalizado ao cliente e de evitar a normalização na prestação de serviços. Mencionou também a importância de não solicitar informações repetidamente e não ignorar as solicitações dos clientes.
+
+
+Claro! Vamos lá:
+
+1:1:
+"1:1" é uma abreviação comumente usada para descrever uma relação direta entre duas coisas ou pessoas, onde cada uma é correspondente à outra. Em um contexto mais amplo, é frequentemente usado em referência a uma abordagem de gestão de pessoas, chamada de "reunião 1:1" ou "one-on-one meeting" em inglês. Nesse tipo de encontro, um gerente ou líder se reúne individualmente com um membro da equipe para discutir questões específicas, progresso, metas, desafios, feedback e quaisquer outros tópicos relevantes. Esse formato proporciona um ambiente mais íntimo para discussões e permite que ambas as partes se concentrem na contribuição individual e no crescimento profissional.
+
+PDI's:
+"PDI's" significa "Planos de Desenvolvimento Individual". São planos personalizados elaborados por uma pessoa (ou em conjunto com um gestor) para ajudar no seu desenvolvimento profissional. Geralmente, um PDI identifica áreas de melhoria, metas específicas, habilidades a serem adquiridas ou aprimoradas e os passos necessários para alcançá-las. Eles são importantes porque ajudam a direcionar o crescimento pessoal e profissional de forma estruturada e adaptada às necessidades individuais. Os PDI's podem incluir cursos de treinamento, experiências de aprendizado prático, mentorias, leituras específicas, entre outras atividades que contribuam para o desenvolvimento da pessoa em sua carreira.
+
+
+https://deskmanager.com.br/blog/esm-enterprise-service-management/
+https://deskmanager.com.br/blog/itsm/
+https://deskmanager.com.br/blog/esm-e-itsm/
+
+
+Claro! "SLA" significa "Service Level Agreement", que em português pode ser traduzido como "Acordo de Nível de Serviço". É um contrato formal entre um provedor de serviços e seu cliente que estabelece os níveis de serviço que o provedor se compromete a fornecer.
+
+Um SLA define os parâmetros para diversos aspectos do serviço, como tempo de resposta, disponibilidade do serviço, desempenho, qualidade e outras métricas relevantes. Esses parâmetros são acordados entre as partes envolvidas e costumam ser baseados em requisitos do cliente, padrões da indústria e capacidades do provedor de serviço.
+
+Por exemplo, em um SLA para um provedor de serviços de internet, pode ser estabelecido que a conexão deve estar disponível 99,9% do tempo durante o mês, com um tempo de resposta máximo de 4 horas para resolver problemas técnicos. Se o provedor não cumprir esses compromissos, podem ser aplicadas penalidades ou compensações, conforme acordado no SLA.
+
+Os SLAs são essenciais para garantir a transparência, responsabilidade e qualidade dos serviços prestados, além de estabelecer expectativas claras entre o provedor e o cliente.
+
+https://www.youtube.com/watch?v=EyIqY4fzAs0
+
+https:/deskmanager.com.br/blog/sla/
+
+
+
+"KPI" é uma abreviação para "Key Performance Indicator", que em português pode ser traduzido como "Indicador-chave de Performance". Os KPIs são medidas quantitativas ou qualitativas utilizadas para avaliar o desempenho de uma organização, departamento, processo ou indivíduo em relação aos objetivos estratégicos estabelecidos.
+
+Esses indicadores-chave são selecionados porque fornecem uma visão clara e direta do progresso em direção aos objetivos e metas estabelecidos. Eles ajudam a monitorar o desempenho, identificar áreas de melhoria e tomar decisões estratégicas informadas.
+
+Os KPIs podem variar dependendo do contexto e dos objetivos específicos de uma organização, mas geralmente são específicos, mensuráveis, alcançáveis, relevantes e têm um prazo definido (conhecidos pela sigla SMART).
+
+Por exemplo, em uma empresa de vendas, os KPIs podem incluir o volume de vendas, a taxa de conversão de leads em clientes, o valor médio das transações, o custo de aquisição de clientes, entre outros. Já em uma fábrica, os KPIs podem ser o tempo de produção, a taxa de defeitos, a eficiência do equipamento, entre outros.
+
+Os KPIs são ferramentas valiosas para monitorar e impulsionar o desempenho organizacional, garantindo que as atividades estejam alinhadas com os objetivos estratégicos e contribuindo para o sucesso geral da organização.
+
+
+
+https://docs.google.com/document/d/1-GRGaaJwbIKD6bhIcv1VOMv1k8r0EI8SV4DZAuk1kCI/edit
+
+Siglas:
+KPI=
+SLA=
+CSAT=
+FCR=
+CES=
+1:1=
+PDI's=
+
+
+Empatia (Empathize): Nesta fase, os designers buscam compreender profundamente os usuários para os quais estão projetando. Isso envolve observar, interagir e entender as necessidades, motivações, comportamentos e desafios dos usuários. O objetivo é desenvolver uma compreensão empática do problema que está sendo resolvido.
+Definição (Define): Após coletar uma quantidade significativa de informações na fase de empatia, os designers começam a analisar e sintetizar esses dados para definir claramente o problema que estão tentando resolver. Eles identificam insights-chave, padrões e oportunidades que emergiram da fase de empatia e formulam uma declaração de problema específica e centrada no usuário.
+Ideação (Ideate): Na fase de ideação, os designers se dedicam a gerar uma ampla gama de ideias para resolver o problema identificado na fase anterior. Eles adotam uma mentalidade de "pensamento divergente", explorando livremente diferentes abordagens, soluções e conceitos, sem críticas prematuras. Métodos como brainstorming, mapas mentais e prototipagem rápida são frequentemente usados nesta fase.
+Prototipagem (Prototype): Após gerar uma variedade de ideias na fase de ideação, os designers começam a transformar algumas dessas ideias em protótipos tangíveis e testáveis. Estes podem ser modelos de baixa fidelidade, como esboços, wireframes ou maquetes, que permitem aos designers e usuários experimentarem e iterarem sobre as soluções propostas de forma rápida e econômica.
+Teste (Test): Na fase final do processo, os protótipos desenvolvidos são submetidos a testes com os usuários reais para obter feedback valioso. Os designers observam como os usuários interagem com os protótipos, identificam pontos fortes e fracos e refinam as soluções com base no feedback recebido. Esse ciclo de testar e iterar pode ser repetido várias vezes até que uma solução satisfatória seja alcançada.
+Essas fases do Design Thinking são frequentemente representadas como um ciclo iterativo, enfatizando a importância da abordagem flexível e iterativa para resolver problemas complexos e criar soluções inovadoras.
+
+
+papeis dos projetos na desk manager
+https://deskmanager.com.br/blog/webinar-gestao-de-projetos-com-o-desk-manager/
+
+
+A "Pirâmide da Clareza", também conhecida como "Pirâmide da Comunicação", é um modelo conceitual que enfatiza a importância de uma comunicação clara e eficaz. O modelo é frequentemente atribuído ao autor americano e consultor de negócios, Minto Templeton.
+
+A ideia central da Pirâmide da Clareza é que uma mensagem eficaz deve ser estruturada em camadas, com a informação mais importante e fundamental sendo apresentada primeiro, seguida por detalhes e dados de suporte. Aqui está uma visão geral das camadas da pirâmide:
+
+Situação (Situation): A base da pirâmide é a situação ou contexto relevante. Isso estabelece o cenário e fornece uma compreensão básica do que está acontecendo. É uma introdução sucinta ao assunto em questão.
+Complicação (Complication): Logo acima da situação está a complicação, que destaca o problema específico ou desafio que precisa ser abordado. Esta camada adiciona complexidade à situação apresentada e define claramente o problema a ser resolvido.
+Implicação (Implication): A próxima camada da pirâmide são as implicações da complicação. Isso explora as consequências ou impactos do problema identificado. Quais são as ramificações se o problema não for resolvido? Quais são os riscos envolvidos?
+Benefício (Benefit): No topo da pirâmide estão os benefícios, que apresentam a solução proposta e os resultados positivos que ela trará. Isso enfatiza por que a solução é valiosa e como ela resolve o problema e beneficia as partes interessadas.
+A Pirâmide da Clareza é uma ferramenta útil para estruturar apresentações, relatórios e outras formas de comunicação de forma clara e eficaz. Ao seguir essa estrutura, os comunicadores podem garantir que sua mensagem seja compreendida de forma rápida e completa, fornecendo informações essenciais primeiro e apoiando-as com detalhes conforme necessário. Isso ajuda a evitar sobrecarregar os destinatários com informações irrelevantes e a manter o foco nos aspectos mais importantes da comunicação.
+
+https://deskmanager.com.br/blog/metodologia-okr/
+
+https://professorannibal.com.br/2017/09/05/o-modelo-dos-3-hs-sustentando-o-crescimento-empresarial/
+
+https://www.linkedin.com/pulse/prioridade-zero-helio-machado/
