@@ -119,7 +119,7 @@
 ---
 
 Video mostrado pela professora:  
-[Atendimento - Porta dos Fundos](https://img.shields.io/badge/Assista%20ao%20vídeo-YouTube-red)](https://www.youtube.com/watch?v=Xk9BSAAK0q8)
+[Atendimento Porta dos Fundos](https://www.youtube.com/watch?v=Xk9BSAAK0q8)
 
 Links passados pela professora:
 - [ESM (Enterprise Service Management)](https://deskmanager.com.br/blog/esm-enterprise-service-management/)
