@@ -168,7 +168,7 @@ Links passados pela professora:
 - **Investidores**
   - Investidores utilizam conceitos de gestão de projetos para avaliar o potencial de retorno e riscos de projetos antes de investir recursos financeiros.
 - **Empreendedores:**
-- Empreendedores aplicam a gestão de projetos para planejar e executar iniciativas comerciais, desde o desenvolvimento de novos produtos até a expansão de negócios existentes, garantindo o sucesso de suas empreitadas.
+  - Empreendedores aplicam a gestão de projetos para planejar e executar iniciativas comerciais, desde o desenvolvimento de novos produtos até a expansão de negócios existentes, garantindo o sucesso de suas empreitadas.
 ---
 ![Slide28](https://github.com/LuanLgn/Aula05/blob/main/Aula%205/Slide%2028%20Quais%20os%20papeis%20comuns.PNG)
 **Os papéis comuns na gestão de projetos incluem:**
